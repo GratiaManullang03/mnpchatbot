@@ -1,0 +1,63 @@
+{
+	"informasi_akademik": {
+		"program_studi": {
+			"informatika": {
+				"nama": "Teknik Informatika",
+				"durasi": "4 tahun",
+				"deskripsi": "Program studi yang fokus pada pengembangan software dan sistem komputer",
+				"mata_kuliah": [
+					"Algoritma",
+					"Basis Data",
+					"Jaringan Komputer",
+					"Pemrograman Web"
+				]
+			},
+			"sistem_informasi": {
+				"nama": "Sistem Informasi",
+				"durasi": "4 tahun",
+				"deskripsi": "Program studi yang menggabungkan IT dengan proses bisnis",
+				"mata_kuliah": [
+					"Analisis Sistem",
+					"Manajemen Database",
+					"Proses Bisnis",
+					"ERP"
+				]
+			}
+		},
+		"kalender_akademik": {
+			"semester_ganjil": "September - Januari",
+			"semester_genap": "Februari - Juni",
+			"ujian_tengah": "Minggu ke-8",
+			"ujian_akhir": "Minggu ke-16"
+		}
+	},
+	"layanan_mahasiswa": {
+		"perpustakaan": {
+			"lokasi": "Gedung A Lantai 2",
+			"jam_operasional": "08.00 - 20.00",
+			"layanan": ["Peminjaman Buku", "Ruang Baca", "Akses Jurnal Online"]
+		},
+		"laboratorium": {
+			"komputer": {
+				"lokasi": "Gedung B Lantai 1",
+				"kapasitas": "40 orang",
+				"fasilitas": [
+					"PC Workstation",
+					"Software Development Tools",
+					"Internet Gigabit"
+				]
+			}
+		}
+	},
+	"fasilitas": {
+		"wifi": "Tersedia di seluruh area kampus",
+		"kantin": "Gedung C Lantai 1",
+		"parkir": "Tersedia untuk mobil dan motor",
+		"musholla": "Setiap gedung lantai 1"
+	},
+	"kontak": {
+		"akademik": "akademik@kampus.ac.id",
+		"kemahasiswaan": "kemahasiswaan@kampus.ac.id",
+		"perpustakaan": "perpus@kampus.ac.id"
+	}
+}
